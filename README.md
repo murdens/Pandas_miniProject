@@ -4,10 +4,10 @@
 
 Mini project as part of Udacity AI programming with Python
 
-Load file data and join into DataFrame
-Prep data removing NaN
-Perform statistics
-Pot graph
+- Load file data and join into DataFrame
+- Prep data removing NaN
+- Perform statistics
+- Plot graph
 
 ## Pandas learning and Pandas DataFrame file load
 
